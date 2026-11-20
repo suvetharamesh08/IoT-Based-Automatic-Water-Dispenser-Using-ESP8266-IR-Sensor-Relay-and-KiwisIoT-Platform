@@ -36,7 +36,19 @@ The system uses the KiwisIoT platform for cloud-based monitoring.
 7. The pump and dispenser status are updated on the KiwisIoT cloud platform.
 8. The system waits until the object is removed before detecting another object.
 
+## 💻 Source Code
 
+The complete Arduino source code for this project is available below:
+
+[water dispenser.ino](water%20dispenser.ino)
+
+## 📸 Project Output
+
+![Water Dispenser](WATER%20DESPENSER.jpeg)
+
+## 📸 KiwisIoT Output
+
+![Water Dispenser Output](WATER%20DESPENSER%20OUTPUT.jpeg)
 
 ## 💻 Software Requirements
 
