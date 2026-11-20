@@ -36,14 +36,6 @@ The system uses the KiwisIoT platform for cloud-based monitoring.
 7. The pump and dispenser status are updated on the KiwisIoT cloud platform.
 8. The system waits until the object is removed before detecting another object.
 
-## 📸 Project Output
-
-### Hardware Connections
-
-
-
-### KiwisIoT Cloud Output
-
 
 
 ## 💻 Software Requirements
