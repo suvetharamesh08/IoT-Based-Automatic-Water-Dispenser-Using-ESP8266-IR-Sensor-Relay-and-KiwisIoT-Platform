@@ -46,9 +46,9 @@ The complete Arduino source code for this project is available below:
 
 ![Water Dispenser](WATER%20DESPENSER.jpeg)
 
-## 📸 KiwisIoT Output
+## 📊 Water Dispenser Dashboard Output
 
-![Water Dispenser Output](WATER%20DESPENSER%20OUTPUT.jpeg)
+![Water Dispenser Dashboard Output](Water%20dispenser%20Dashboard%20output.jpeg)
 
 ## 💻 Software Requirements
 
